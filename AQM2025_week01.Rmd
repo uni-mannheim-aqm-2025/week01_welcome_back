@@ -128,7 +128,7 @@ Although the homework assignments should push you towards your limits, they are 
 
 ### Homework Groups
 
-You are free to form your own homework groups and work together for the entire semester. Please start organizing your homework group today (if you haven't already). If you formed a group, send me a message on Slack one with your names, preferably **by Monday (February 20) morning**. If you do not find a group on your own, DM me by Monday as well and I will try to figure it out for you. You can also shortly summarise your research interests, so I can try to find a well-fitting group for you.
+You are free to form your own homework groups and work together for the entire semester. Please start organizing your homework group today (if you haven't already). If you formed a group, send me a message on Slack one with your names, preferably **by Monday (February 17) morning**. If you do not find a group on your own, DM me by Monday as well and I will try to figure it out for you. You can also shortly summarise your research interests, so I can try to find a well-fitting group for you.
 
 Homework assignments will be distributed via GitHub after the lecture on Wednesdays. Assignments are due by the following Wednesday, 23:59. You can find all the dates on the course website, e.g. here: <https://aqm-uma.netlify.app/material/02-week/>.
 
