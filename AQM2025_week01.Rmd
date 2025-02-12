@@ -61,8 +61,6 @@ sapply(p_needed, require, character.only = TRUE)
 3.  We refresh some R Skills and have a look at Matrix Algebra in R.
 4.  Some exercise to get familiar with Matrix algebra using pen and paper, and R.
 
-Please work through sections 1-3 and do the exercises in section 4. Being familiar with matrix algebra will be essential to follow the content this semester.
-
 ------------------------------------------------------------------------
 
 ## The Lab
@@ -554,4 +552,4 @@ Usually, when multiplying matrices, we are going to use the `%*%` command.
 
 ```
 
-**Matrix algebra will be essential in this course!** There will be matrix algebra in every single week. So if you struggle understanding these operations, please review the respective material from your math course this week.
+**Matrix algebra will be essential in this course!** There will be matrix algebra in every single week. So if you struggle understanding these operations, please review the respective material from your maths course this week.
